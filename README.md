@@ -1,6 +1,6 @@
 # GameHub - A Game Library
 
-Live demo: https://storied-starlight-d69afa.netlify.app/
+Live demo: https://storied-starlight-d69afa.netlify.app/](https://gamehub-nine-indol.vercel.app/
 
 ## Purpose
 GameHub is an online library to discover and support indie game developers. Browse, read details, and install games.
