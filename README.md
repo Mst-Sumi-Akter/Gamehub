@@ -5,6 +5,7 @@ Live demo: https://gamehub-nine-indol.vercel.app/
 GameHub is an online library to discover and support indie game developers. Browse, read details, and install games.
 
 ## Key Features
+
  Responsive single-page React app
  Firebase Authentication (email/password + Google)
  Protected Game Details & Profile pages
@@ -14,9 +15,11 @@ GameHub is an online library to discover and support indie game developers. Brow
  Deployed on Netlify (or Firebase Hosting)
 
 ## JSON Data
+
 Sample games in `src/data/games.json`.
 
 ## Used npm packages
+
  react-router-dom
  firebase
  framer-motion
@@ -25,6 +28,7 @@ Sample games in `src/data/games.json`.
  tailwindcss 
 
 ## Setup
+
 1. `git clone ...`
 2. `npm install`
 3. Add `.env.local` with Firebase variables (see README)
